@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+Hi guys! My name is Pavel  and I am data scientist.
+
+
+My fields of interest are
+ - Natural language processing
+ - Various adTech problems
+ - Embedding methods (yeah, lets embed everything!)
+ - Service delivery
+ 
+My contacts:
+ - Linkedin: https://www.linkedin.com/in/mezentsevpavel/
+ - Telegram: http://t.me/pmezentsev
+ - mail: pavel@mezentsev.org
+
+
+
+
 <!--
 **pmezentsev/pmezentsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
